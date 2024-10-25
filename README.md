@@ -43,6 +43,6 @@
 
 ### Top Repositories:
 
-<a href="https://github.com/fahadmohammad559/user-and-admin-management-service">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fahadmohammad559&repo=user-and-admin-management-service&theme=algolia" />
-</a>
+![Fullstack Project](https://github-readme-stats.vercel.app/api/pin/?username=fahadmohammad559&repo=fullstack-project&theme=algolia)
+![User and Admin Management Service](https://github-readme-stats.vercel.app/api/pin/?username=Fahad1656&repo=user-and-admin-management-service&theme=algolia)
+

@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=AAssalamualaikum,+There!+👋;Hello,+it's+Fahad....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Assalamualaikum,+There!+👋;Hello,+it's+Fahad....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -66,4 +66,3 @@
 <a href="https://github.com/fahadmohammad559/ml-projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fahadmohammad559&repo=ml-projects&theme=algolia" />
 </a>
-

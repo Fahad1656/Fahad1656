@@ -41,18 +41,8 @@
 
 ---
 
-
-### Top Languages:
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadmohammad559&layout=compact&theme=algolia&hide_border=true&langs_count=10" />
-
----
-
 ### Top Repositories:
 
-<a href="https://github.com/fahadmohammad559/fullstack-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fahadmohammad559&repo=fullstack-project&theme=algolia" />
-</a>
-<a href="https://github.com/fahadmohammad559/ml-projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fahadmohammad559&repo=ml-projects&theme=algolia" />
+<a href="https://github.com/fahadmohammad559/user-and-admin-management-service">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fahadmohammad559&repo=user-and-admin-management-service&theme=algolia" />
 </a>

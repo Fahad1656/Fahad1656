@@ -41,16 +41,6 @@
 
 ---
 
-### GitHub Stats:
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadmohammad559&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Fahad's GitHub status" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadmohammad559&theme=algolia" alt="Fahad's GitHub streak stats" />
-</p>
-
----
 
 ### Top Languages:
 

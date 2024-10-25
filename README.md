@@ -42,6 +42,6 @@
 ---
 
 ### Top Repositories:
-
+![REST API for Music System](https://github-readme-stats.vercel.app/api/pin/?username=Fahad1656&repo=REST-api-s-for-Music-System-using-Express-js-and-mysql&theme=algolia)
 ![User and Admin Management Service](https://github-readme-stats.vercel.app/api/pin/?username=Fahad1656&repo=user-and-admin-management-service&theme=algolia)
 
